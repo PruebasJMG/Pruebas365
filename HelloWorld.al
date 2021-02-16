@@ -6,6 +6,6 @@ pageextension 50100 CustomerListExt extends "Customer List"
 {
     trigger OnOpenPage();
     begin
-        Message('App published: Hola mundo 22');
+        Message('Este mensaje es para que suba al repositorio remoto');
     end;
 }
